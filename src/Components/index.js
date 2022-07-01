@@ -1,2 +1,2 @@
 import React from "react";
-export const index = () => "hello Sracani";
+export const index = () => "hello Sravani";
